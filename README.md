@@ -1,7 +1,7 @@
 # NoteApp
 
 # Aim:
-The aim of the project is to build a  Note Taking Website App . We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.
+Note WebApp is a static website without any database and does not sync your notes to the cloud.The notes are persisted temporarily in the local storage.
 
 # Languages Used: 
 HTML,Javascript,Bootstrap4,CSS3
