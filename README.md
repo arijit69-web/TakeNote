@@ -1,7 +1,7 @@
-# NoteApp
+# TakeNote
 
 # Aim:
-Note WebApp is a static website without any database and does not sync your notes to the cloud.The notes are persisted temporarily in the local storage.
+TakeNote WebApp is a static website without any database. The notes are persisted temporarily in the local storage.
 
 # Languages Used: 
 HTML,Javascript,Bootstrap4,CSS3
