@@ -4,11 +4,16 @@
 TakeNote WebApp is a static website without any database. The notes are persisted temporarily in the local storage.
 
 # Languages Used: 
-HTML,Javascript,Bootstrap4,CSS3
+- HTML-
+- Javascript
+- Bootstrap4
+- CSS3
 
 # Link of this Application: (It may take some time to open)
 
 https://realtimeweatherappv2.herokuapp.com/note
+
+# Screenshots of the Website :
 
 <img width="960" alt="Note1" src="https://user-images.githubusercontent.com/60184336/122882137-81e8cd80-d359-11eb-9baa-1df2ba7acf71.PNG">
 
