@@ -11,7 +11,7 @@ TakeNote WebApp is a static website without any database. The notes are persiste
 
 ## Link of this Application : [Take-Note](https://realtimeweatherappv2.herokuapp.com/note)
 ```
-! It may take some time to open
+It may take some time to open
 ```
 
 
