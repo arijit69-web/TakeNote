@@ -9,7 +9,10 @@ TakeNote WebApp is a static website without any database. The notes are persiste
 - Bootstrap4
 - CSS3
 
-## Link of this Application: (It may take some time to open): [Take-Note](https://realtimeweatherappv2.herokuapp.com/note)
+## Link of this Application : [Take-Note](https://realtimeweatherappv2.herokuapp.com/note)
+```
+! It may take some time to open
+```
 
 
 
