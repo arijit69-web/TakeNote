@@ -13,7 +13,7 @@ TakeNote WebApp is a static website without any database. The notes are persiste
 - CSS3
 ```
 
-## Screenshot of the Website :
+## Screenshots of the Website :
 
 1. Add a Note 
 
