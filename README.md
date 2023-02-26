@@ -7,7 +7,7 @@ TakeNote WebApp is a static website without any database. The notes are persiste
 
 ## Languages Used
 ```
-- HTML-
+- HTML
 - Javascript
 - Bootstrap4
 - CSS3
